@@ -1,0 +1,33 @@
+/**
+ * CSS needed for the project
+ * @author Bruno Munoz
+ * Date: 23/11/2012
+ * Project: "Add Logo to your profile photos"
+ */
+ 
+.grid-logo{
+	position:absolute;
+	margin-top:-207px;
+}
+.grid-logo table{
+	border-spacing:0px;
+	empty-cells:show; 
+	border-collapse:separate;
+}
+.grid-logo td{
+	border:1px solid black;
+	width:65px;
+	height:69px;
+	overflow:hidden;
+	cursor:pointer;
+}
+.grid-logo td:hover{
+	background:url("../img/logo.png");
+	background-size:65px;
+	background-repeat:no-repeat;
+}
+.grid-logo td.selected{
+	background:url("../img/logo.png");
+	background-size:65px;
+	background-repeat:no-repeat;
+}
