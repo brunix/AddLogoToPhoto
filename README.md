@@ -11,23 +11,22 @@ use my small project.
 ----------------------------------
 
 There are many situations when a photo uploader needs to have some branding, rights, and many other things.
-Add logo to photo lets you choose from your logo and make that users who upload photos will have that logo
-stamped in their photos. These can apply to profile photos, adding certain copyrights etc.
-The basic example fully functional once you have installed it, it is for a Profile photo 207x207px with a Logo 65x50px.
-You can simply modify this by going to the Constants, and change accordingly the CSS and the disposition of the gris.
-You just need to have Apache, 
+Add logo to photo lets you choose from your logo and allow users who upload photos having a preferred logo image
+stamped. These can apply to profile photos, landscapes, news, etc.
+The default code example fully functional once you have installed it, it is for a Profile photo 207x207px with a Logo 65x50px.
+You can simply modify this by going to the Constants, and change accordingly the CSS and the disposition of the grid.
 
 
 2) Requirements
 ----------------------------------
 
-You will need to have installed the following:
+Easy! You will only need to have installed the following:
 
-# Apache or any other server running PHP
+- Apache or any other server running PHP
 
-# PHP 5.0 or later. 
+- PHP 5.0 or later. 
 
-# Firefox, Chrome, Safari, Opera.
+- Firefox, Chrome, Safari, Opera.
 
 3) Installation
 -------------------------------------
